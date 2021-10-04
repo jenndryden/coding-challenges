@@ -34,7 +34,7 @@
   <h3 align="center">Jenn's Coding Challenges!</h3>
 
   <p align="center">
-    Hey! I created this repo to help strengthen my coding abilities in Python and feel more comfortable with interviews. Feel free to suggest any improvements of message me if you want to practice together!
+    Hey! I created this repo to help strengthen my coding abilities in Python and feel more comfortable with interviews. Feel free to suggest any improvements of message me if you want to practice together! I think coding is best done collaboratively and would love to learn together.
     <br />
 
 
